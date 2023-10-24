@@ -2,7 +2,7 @@
 baseURL = 'https://referrals.directory/'
 languageCode = 'en-us'
 # Basic Metadata config 
-title = 'referrals.directory - get free referral codes'
+title = 'referrals.directory'
 theme = 'hugo-bearblog'
 author = "the referral guy"
 copyright = "Copyright © 2023, the referral guy."
