@@ -1,5 +1,5 @@
 +++
-title = 'Tidbyt Referral Codes'
+title = 'Tidbyt $10 off code'
 date = 2023-10-23T19:19:19-04:00
 draft = false
 +++
