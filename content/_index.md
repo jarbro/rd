@@ -5,3 +5,7 @@ This site is a directory of all the most popular referral codes.  We are privacy
 Just find the store you want and click the link and the referral, promo, or discount code will be applied to your purchase. We will do our best to ensure the codes are alway up to date.
 
 Happy shopping!
+
+||  |
+|--|--|
+| **Tidbyt** |[Get $10 Off](/referral/tidbyt) |
