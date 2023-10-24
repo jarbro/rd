@@ -7,7 +7,7 @@ draft = false
 # Chewy - 30% off $75 Referral Code
 
 
-![Chewy Logo](../assets/chewy.png)
+![Chewy Logo](/chewy.png)
 
 As a new customer, you'll get 30% on the first $75 of your first order. If you become a customer, 
 
