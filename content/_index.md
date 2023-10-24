@@ -9,3 +9,4 @@ Happy shopping!
 ||  |
 |--|--|
 | **Tidbyt** |[Get $10 Off](/referral/tidbyt) |
+| **Chewy**  |[Get 30% Off](/referral/chewy)  |
