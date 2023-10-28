@@ -9,7 +9,7 @@ draft = false
 
 ![Chewy Logo](/chewy.png 'Chewy Logo')
 
-As a new customer, you'll get 30% on the first $75 of your first order. If you become a customer, 
+As a new customer, you'll get 30% on the first $75 of your first order.
 
 [**Get 30% off on your first $75 order** ](https://fbuy.io/s/ArApbYya)
 
